@@ -1,0 +1,1 @@
+export { default } from 'deco-test/components/comp-with-decos';
