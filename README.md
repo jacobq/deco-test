@@ -5,7 +5,9 @@
 * `npm install`
 * `ember build`
 
-## Error
+**Update:** After moving `@ember-decorators/babel-transforms` from devDependencies to dependencies it seems to work!
+
+## ~~Error~~
 
 ```
 Build Error (broccoli-persistent-filter:Babel > [Babel: deco-test]) in deco-test/components/comp-with-decos.js
